@@ -6,25 +6,25 @@
   </head>
   <body>
 <div id="Etusivu">
-Tämä on etusivu
-</div>
+Etusivu
+
 <div id="Kirjaudu sisään">
-  Tähän tulee kirjautumis sivu
-</div>
+Kirjaudu sisään
+
 <div id="Luo käyttäjätunnus">
-  Tähän tulee käyttätunnuksen luonti
-</div>
+Luo käyttäjätunnus
+
 <div id="Selaa tuotteita">
-//  Tuotteiden selaaminen (toimii ilman kirjautumista)
-</div>
+Selaa tuotteita
+
 <div id="Ostoskori">
-// näkyy kirjautuneelle asiakkaalle
-</div>
+Ostoskori
+
 <div id="Tietokannat">
-//  Tämä näkyy ainostaan masterkäyttäjälle
-</div>
+Tietokannat
+
 <div id="Kirjaudu ulos">
-// Näkyy asinoastaan kirjautuneelle
+Kirjaudu ulos
 </div>
   </body>
 </html>
