@@ -1,32 +1,55 @@
+html,
+body{
+  height:100%;
+  width: 100%;
+}
 #Etusivu{
-background-color: lightblue;
+background-color: blue;
+
 
 }
 #Valikko{
+  background-color: lightblue;
+  float: left;
+  width: 150px;
+  height: 100%;
+  font-size: 20px;
+}
+#Valikko ul li{
+  list-style: none;
+}
+#Valikko ul li a{
+  text-decoration: none;
+  }
+  #Valikko ul li a:hover{
+    background-color: orange;
+  }
+#footter{
+  background-color: orange;
+  margin-left: 160px;
+  
+}
+#Kirjaudu{
 background-color: white;
 
 }
-#Kirjaudu{
-background-color: lightblue;
-
-}
 #Luo{
-background-color: lightblue;
+background-color: white;
 
 }
 #Selaa{
-background-color: lightblue;
+background-color: white;
 
 }
 #Ostoskori{
-background-color: lightblue;
+background-color: white;
 
 }
 #Tietokannat{
-background-color: lightblue;
+background-color: white;
 
 }
 #Ulos{
-background-color: lightblue;
+background-color: white;
 
 }

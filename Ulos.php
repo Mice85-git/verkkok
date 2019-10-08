@@ -1,6 +1,9 @@
-<?php include "valikko.php"; ?>
-	<h2>Ulos.php</h2>
+<?php include "Valikko.php"; ?>
+	<?php
+    session_start();
+    session_destroy();
+    ?>
 	<p>
-		Ulos kirjautuminen
+		Kirjauduit ulos
 	</p>
 <?php include "footter.php"; ?>

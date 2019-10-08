@@ -7,8 +7,9 @@
   </head>
   <body>
 <div id="Etusivu">
-Etusivu
+<h1>Frisbeekauppa</h1>
 
+</div>
 <div id="Valikko">
   <ul>
   		<li><a href="index.php">Etusivu</a></li>
@@ -19,3 +20,10 @@ Etusivu
   		<li><a href="Tietokannat.php">Tietokannat</a></li>
   		<li><a href="Ulos.php">Ulos</a></li>
   	</ul>
+</div>
+<div id="footter">
+  Tervetuloa ....
+</div>
+
+<?php include "footter.php"; ?>
+</div>
