@@ -3,18 +3,19 @@
   <head>
     <meta charset="utf-8">
     <title></title>
+<link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
 <div id="Etusivu">
 Etusivu
 
-<div id="Kirjaudu sisään">
+<div id="Kirjaudu">
 Kirjaudu sisään
 
-<div id="Luo käyttäjätunnus">
+<div id="Luo">
 Luo käyttäjätunnus
 
-<div id="Selaa tuotteita">
+<div id="Selaa">
 Selaa tuotteita
 
 <div id="Ostoskori">
@@ -23,7 +24,7 @@ Ostoskori
 <div id="Tietokannat">
 Tietokannat
 
-<div id="Kirjaudu ulos">
+<div id="Ulos">
 Kirjaudu ulos
 </div>
   </body>
