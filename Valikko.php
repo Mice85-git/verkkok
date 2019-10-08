@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Frisbeekauppa</title>
 <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
