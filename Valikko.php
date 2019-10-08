@@ -9,23 +9,13 @@
 <div id="Etusivu">
 Etusivu
 
-<div id="Kirjaudu">
-Kirjaudu sisään
-
-<div id="Luo">
-Luo käyttäjätunnus
-
-<div id="Selaa">
-Selaa tuotteita
-
-<div id="Ostoskori">
-Ostoskori
-
-<div id="Tietokannat">
-Tietokannat
-
-<div id="Ulos">
-Kirjaudu ulos
-</div>
-  </body>
-</html>
+<div id="Valikko">
+  <ul>
+  		<li><a href="index.php">Etusivu</a></li>
+  		<li><a href="Kirjaudu.php">Kirjaudu</a></li>
+  		<li><a href="Luo.php">Luo</a></li>
+  		<li><a href="Selaa.php">Selaa</a></li>
+  		<li><a href="Ostoskori.php">Ostoskori</a></li>
+  		<li><a href="Tietokannat.php">Tietokannat</a></li>
+  		<li><a href="Ulos.php">Ulos</a></li>
+  	</ul>
