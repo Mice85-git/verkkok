@@ -1,15 +1,16 @@
 <?php include "Valikko.php"; ?>
-	<h2>Selaa</h2>
-	<p>
-		Selaus sivuu
-	</p>
+<?php include "connection.php"; ?>
+
 <?php
 session_start();
-if(isset($_SESSION['logged_in'])) {
-  echo '<p>Olet kirjautunut '.$_SESSION['username'].'</p>';
-}
-else {
-  echo '<p> Tunnus tai salasana väärin</p>';
-}
-?>
+
+if(isset($_SESSION['logged_in']))
+
+{
+	$malli=$db->query('SELECT * FROM malli');
+	foreach ($malli as $row)	{
+		echo $row['Mnimi']. '<br>';
+
+	}
+	?>
 <?php include "footter.php"; ?>

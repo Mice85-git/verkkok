@@ -12,18 +12,18 @@
 </div>
 <div id="Valikko">
   <ul>
-  		<li><a href="index.php">Etusivu</a></li>
+  		<li><a href="Etusivu.php">Etusivu</a></li>
   		<li><a href="Kirjaudu.php">Kirjaudu</a></li>
   		<li><a href="Luo.php">Luo</a></li>
-  		<li><a href="Selaa.php">Selaa</a></li>
-  		<li><a href="Ostoskori.php">Ostoskori</a></li>
-  		<li><a href="Tietokannat.php">Tietokannat</a></li>
-  		<li><a href="Ulos.php">Ulos</a></li>
+  		<li><a href="Ulos.php">Kirjaudu ulos</a></li>
   	</ul>
 </div>
 <div id="footter">
-  Tervetuloa ....
+  Meillä on nii hienot sivut ettei iskulausetta tarvita ;)
 </div>
+<p>
+
+</p>
 
 <?php include "footter.php"; ?>
 </div>
